@@ -11,7 +11,7 @@ The latest version of nifi, 1.4.0 has validator for JSON.
 
 This was created a month before the version went live.
 
-#How to use.
+# How to use.
 
 1. Clone this repo and build the project using maven.
 
